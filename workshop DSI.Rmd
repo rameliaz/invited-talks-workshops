@@ -32,7 +32,7 @@ class: title-slide, spaced
 
 <img src="libs/unair.png" style="width:15%;" class="fancyimage"/> <img src="libs/STUA.png" style="width:23%;" class="fancyimage"/> <img src="libs/ina-logo.jpg" style="width:7%;" class="fancyimage"/> <img src="libs/igdore.png" style="width:23%;" class="fancyimage"/>
 
-# Menulis ulang karya ilmiah menjadi tulisan populer
+# Menulis artikel populer dari karya ilmiah
 ## Workshop Optimalisasi Konten Berbasis Webometrics
 <br>
 ### <b>Rizqy Amelia Zein</b>
@@ -53,8 +53,8 @@ class: center, middle
 `r fa("desktop")` https://rameliaz.github.io
 
 
-Materi dalam paparan ini berlisensi `r fa("creative-commons")` 1.0 (*public domain*) dan tersedia di laman web #SainsTerbuka Airlangga **(https://sainsterbukaua.github.io/activities/)**. 
-Kode tersedia secara terbuka di [repositori](https://github.com/sainsterbukaUA/materi-presentasi) `r fa("github")` saya.
+Materi dalam paparan ini berlisensi `r fa("creative-commons")` 1.0 (*public domain*) dan tersedia di laman web pribadi saya **(https://rameliaz.github.io/talk/populer-2019)**. 
+Kode tersedia secara terbuka di [repositori](https://github.com/rameliaz/invited-talks-workshops/blob/master/workshop%20DSI.Rmd) `r fa("github")` saya.
 
 ---
 
@@ -263,11 +263,11 @@ Sebuah cerita akan berakhir pada pertanyaan "*lha trus?*", "*trus opo'o?*", "*so
 
 ---
 
-class: inverse
-
 # Latihan 4
 
-Silahkan membentuk kelompok 3-4 orang untuk mendiskusikan sebuah artikel ilmiah (sudah termasuk dalam folder materi) selama kurang lebih 15 menit.
+Silahkan membentuk kelompok 3-4 orang untuk mendiskusikan sebuah artikel ilmiah selama kurang lebih 15 menit.
+
+[Klik disini untuk membaca artikel](https://www.pnas.org/content/111/Supplement_4/13614)
 
 --
 
